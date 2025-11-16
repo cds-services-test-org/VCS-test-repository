@@ -1,0 +1,17 @@
+{
+  "test_issue": {
+    "issue_number": 2,
+    "title": "This is a test Issue Created - 2",
+    "status": "resolved",
+    "resolved_by": "copilot-agent",
+    "resolution_date": "2025-11-16",
+    "changes": [
+      "Updated README.md with test issue documentation",
+      "Added test-config.json configuration file"
+    ]
+  },
+  "repository": {
+    "name": "VCS-test-repository",
+    "purpose": "Testing VCS triggered events and Copilot agent integration"
+  }
+}
